@@ -1,1 +1,1 @@
-# numpy_learning
+# Изучение библиотеки numpy
